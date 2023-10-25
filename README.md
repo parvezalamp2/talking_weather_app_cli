@@ -14,13 +14,13 @@ Language, Libraries and module used in this application: -
 5.	iso3166
    
 How to Use
-Step 1: Install python version 3 above and create a virtual Environment.
-Step2: Copy the requirement.txt file from the folder to your virtal environment folder
-Step 3: Activate virtual environment and run command (pip install -r requirement.txt) in your command prompt. All libraries should install automatically which is used in this application.
-Step 4 : Copy main.py file to your virtual environment.
-Step 5 : Open main.py file in notepad or python IDLE
-Step 6 : Change API_key on line 22. Enter your api key which you can get after creating account on https://openweathermap.org/.
-Step 7 : Then run the main.py in the command prompt to run program and follow the steps on the command prompt for successful Execution.
+1. Install python version 3 above and create a virtual Environment.
+2. Copy the requirement.txt file from the folder to your virtal environment folder
+3. Activate virtual environment and run command (pip install -r requirement.txt) in your command prompt. All libraries should install automatically which is used in this application.
+4. Copy main.py file to your virtual environment.
+5. Open main.py file in notepad or python IDLE
+6. Change API_key on line 22. Enter your api key which you can get after creating account on https://openweathermap.org/.
+7. Then run the main.py in the command prompt to run program and follow the steps on the command prompt for successful Execution.
 OR
 You can use your own better way to run program on another notebook or IDE.
 
